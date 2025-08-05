@@ -19,15 +19,20 @@ This program lets you **add**, **view**, **update**, and **delete** tasks intera
 ### Prerequisites
 - Java JDK 8 or higher
 - A terminal/command prompt
+---
 
 ### Run the Program
 1️⃣ Clone the repository:
 
 git clone https://github.com/your-username/To-Do-List-Java.git
 cd To-Do-List-Java
+---
+
 2️⃣ Compile:
 
 javac Data_Types/To_Do_List.java
+---
+
 3️⃣ Run:
 
 java Data_Types.To_Do_List
@@ -40,7 +45,9 @@ java Data_Types.To_Do_List
  3 : UPDATE THE TASK
  4 : DELETE THE TASK
  5 : EXIT!
-📝 Future Enhancements
+
+---
+###📝 Future Enhancements
 Save/load tasks from file
 
 Mark tasks as completed
