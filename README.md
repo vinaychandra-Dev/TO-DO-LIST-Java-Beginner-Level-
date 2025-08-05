@@ -22,25 +22,17 @@ This program lets you **add**, **view**, **update**, and **delete** tasks intera
 
 ### Run the Program
 1️⃣ Clone the repository:
-```bash
+
 git clone https://github.com/your-username/To-Do-List-Java.git
 cd To-Do-List-Java
 2️⃣ Compile:
 
-```bash
-Copy
-Edit
 javac Data_Types/To_Do_List.java
 3️⃣ Run:
 
-```bash
-Copy
-Edit
 java Data_Types.To_Do_List
 📌 Example
-pgsql
-Copy
-Edit
+
  *** TO-DO-LIST *** 
   *** TO-DO-LIST OPERATIONS ***  
  1 : ADD THE TASK
